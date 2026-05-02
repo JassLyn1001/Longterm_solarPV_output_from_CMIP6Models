@@ -26,9 +26,12 @@ from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 ### Near-surface Temperature (T2M)
 ![Daytime vs Daily T2M](https://github.com/JassLyn1001/solarPV_output_from_CMIP6_datast/blob/main/daytime_vs_daily_temperature_allmonth.png)
 
-## Spatial Variation Based on Seasons
-### Global Horizontal Irradiance (GHI)
+## Spatial Variation 
+### Seasonal Climatology of Global Horizontal Irradiance (GHI)
 ![Seasonal Variation of GHI](https://github.com/JassLyn1001/solarPV_output_from_CMIP6_datast/blob/main/seasonalavg_GHI_daytime.png)
 
-### Near-surface Temperature (T2M)
+### Seasonal Climatology of Near-surface Temperature (T2M)
 ![Seasonal Variation of T2M](https://github.com/JassLyn1001/solarPV_output_from_CMIP6_datast/blob/main/seasonalavg_TAS_daytime.png)
+
+### Monthly Climatology of PV Energy Potential 
+![Seasonal Variation of PV Cell Energy](https://github.com/JassLyn1001/Longterm_solarPV_output_from_CMIP6Models/blob/main/monclim_PV_energy_per_unit_area_basic.png)
